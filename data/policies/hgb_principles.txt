@@ -1,0 +1,66 @@
+# HGB (Handelsgesetzbuch) — Key Accounting Principles
+
+## § 238 HGB — Obligation to keep books
+Every merchant is required to keep books of account and to make the
+commercial transactions and the position of the assets of the business
+apparent in them according to the principles of proper accounting (GoB).
+
+## § 243 HGB — Principles of proper bookkeeping (GoB)
+The annual financial statements must be prepared in accordance with the
+principles of proper accounting. They must be clear and arranged so that
+they give a true and fair view of the assets, financial position and
+earnings of the business.
+
+## § 246 HGB — Completeness principle (Vollständigkeitsgrundsatz)
+The annual financial statements must include all assets, liabilities,
+accruals, expenses and income unless otherwise provided by law. Offsetting
+of assets against liabilities, or of expenses against income, is
+generally prohibited.
+
+## § 250 HGB — Prepaid expenses and deferred income (Rechnungsabgrenzung)
+Expenditures made before the balance sheet date which represent expense
+for a specific period after that date must be reported on the asset
+side as prepaid expenses. Likewise, receipts before the balance sheet
+date representing income for a specific period after that date must be
+reported on the liability side as deferred income.
+
+## § 252 HGB — Recognition and measurement principles
+(1) The following principles must be observed:
+   1. Balance sheet continuity — opening balances must equal prior closing balances.
+   2. Going concern principle — valuation is based on the continuation of the business.
+   3. Individual valuation — assets and liabilities are valued individually.
+   4. Prudence principle (Vorsichtsprinzip): all foreseeable risks and
+      losses that arose before the balance sheet date must be taken into
+      account, even if they only became known between the balance sheet
+      date and the date of preparation; profits are recognised only
+      when realised (Realisationsprinzip).
+   5. Accrual principle — income and expenses of the financial year are
+      recognised in that period regardless of payment timing
+      (Periodenabgrenzung).
+   6. Consistency principle — valuation methods applied in the preceding
+      annual financial statements must be retained.
+
+## § 253 HGB — Measurement
+Assets must be valued at acquisition or production cost less depreciation.
+Provisions for uncertain liabilities and provisions for impending losses
+from pending transactions must be recognised at the settlement amount
+required by prudent commercial judgement.
+
+## § 255 HGB — Acquisition and production cost
+Acquisition cost comprises the expenses incurred to acquire an asset
+and bring it to an operational condition, to the extent that they can be
+assigned to the asset individually.
+
+## § 266 HGB — Balance sheet structure
+The balance sheet must be presented in account form, with assets on the
+left and equity/liabilities on the right. Current and non-current items
+must be separately disclosed.
+
+## Month-end close checklist (GoB-compliant)
+- Verify opening balances equal prior period closing balances.
+- Ensure all period accruals (RAP) are booked in the correct period.
+- Reconcile GL to subsidiary ledgers (AR, AP, fixed assets).
+- Review impairment indicators for long-lived assets.
+- Disclose material events after the balance sheet date
+  (wertaufhellend vs. wertbegründend).
+- Obtain management approval before sealing the period.

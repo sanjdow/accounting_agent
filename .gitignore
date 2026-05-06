@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+close.db
+chroma_db/
+reports_out/*.pdf
+reports_out/*.xlsx
+.DS_Store
+.streamlit/

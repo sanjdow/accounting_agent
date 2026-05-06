@@ -1,0 +1,78 @@
+# IFRS — Key Standards Relevant to Month-End Close
+
+## IAS 1 — Presentation of Financial Statements
+Financial statements must present fairly the financial position,
+financial performance and cash flows of an entity. A complete set of
+financial statements comprises a statement of financial position,
+statement of profit or loss and other comprehensive income, statement of
+changes in equity, statement of cash flows, and accompanying notes.
+Going concern, accrual basis of accounting, materiality and aggregation,
+offsetting, and frequency of reporting are core presentation principles.
+
+## IAS 8 — Accounting Policies, Changes in Accounting Estimates and Errors
+Accounting policies must be applied consistently for similar transactions.
+A change in accounting policy is permitted only if required by an IFRS
+or if it results in reliable and more relevant information. Prior period
+errors are corrected retrospectively by restating comparative amounts.
+
+## IAS 10 — Events after the Reporting Period
+Adjusting events (providing evidence of conditions that existed at the
+end of the reporting period) require adjustment to amounts recognised.
+Non-adjusting events (indicative of conditions that arose after the
+reporting period) are disclosed if material. Dividends declared after
+the reporting period are not a liability at the end of the period.
+
+## IAS 16 — Property, Plant and Equipment
+PPE is initially measured at cost and subsequently at cost less
+accumulated depreciation and impairment, or at revalued amount.
+Depreciation begins when the asset is available for use and continues
+until the asset is derecognised.
+
+## IAS 36 — Impairment of Assets
+At the end of each reporting period an entity assesses whether there is
+any indication that an asset may be impaired. If any such indication
+exists, the entity estimates the recoverable amount of the asset.
+An impairment loss is recognised immediately in profit or loss unless
+the asset is carried at revalued amount. Indicators of impairment
+include significant decline in market value, adverse changes in
+technology, significant underperformance relative to historical or
+projected results.
+
+## IAS 37 — Provisions, Contingent Liabilities and Contingent Assets
+A provision is recognised when an entity has a present obligation
+(legal or constructive) as a result of a past event, it is probable
+that an outflow of resources will be required, and a reliable estimate
+can be made. Provisions are measured at the best estimate of the
+expenditure required to settle the obligation at the reporting date.
+
+## IFRS 15 — Revenue from Contracts with Customers
+Revenue is recognised when control of goods or services transfers to
+the customer, applying a 5-step model:
+  1. Identify the contract with the customer.
+  2. Identify the performance obligations.
+  3. Determine the transaction price.
+  4. Allocate the transaction price to the performance obligations.
+  5. Recognise revenue when (or as) performance obligations are satisfied.
+
+## IFRS 16 — Leases
+A lessee recognises a right-of-use asset and a lease liability for all
+leases, except short-term leases and leases of low-value assets.
+The lease liability is initially measured at the present value of the
+lease payments not yet paid.
+
+## IFRS 10 — Consolidated Financial Statements
+An investor controls an investee when it is exposed, or has rights,
+to variable returns from its involvement with the investee and has the
+ability to affect those returns through its power over the investee.
+The financial statements of the parent and its subsidiaries used in
+preparing the consolidated financial statements shall be prepared as
+of the same reporting date.
+
+## Month-end close checklist (IFRS)
+- Confirm reporting dates align across parent and subsidiaries (IFRS 10).
+- Review all accruals and provisions for completeness (IAS 37).
+- Perform impairment indicator assessment for material assets (IAS 36).
+- Ensure revenue recognition follows the 5-step model (IFRS 15).
+- Update right-of-use asset and lease liability carrying amounts (IFRS 16).
+- Document significant judgements and estimation uncertainties (IAS 1).
+- Identify and classify events after the reporting period (IAS 10).
