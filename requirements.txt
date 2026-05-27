@@ -17,6 +17,7 @@ openpyxl==3.1.5      # Excel read/write
 # RAG
 chromadb==0.5.20
 sentence-transformers==3.2.1
+pypdf==5.1.0
 
 # Reports
 reportlab==4.2.5

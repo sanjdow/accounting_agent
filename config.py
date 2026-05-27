@@ -40,7 +40,8 @@ RAG_CONFIDENCE_THRESHOLD = float(os.getenv("RAG_CONFIDENCE_THRESHOLD", "0.35"))
 ANOMALY_CONTAMINATION = float(os.getenv("ANOMALY_CONTAMINATION", "0.05"))
 
 # ---- RAG ----
-EMBEDDING_MODEL = "all-MiniLM-L6-v2"
+##EMBEDDING_MODEL = "all-MiniLM-L6-v2"
+EMBEDDING_MODEL = "paraphrase-multilingual-MiniLM-L12-v2"
 RAG_TOP_K = 4
 
 # ---- Canonical schemas ----
