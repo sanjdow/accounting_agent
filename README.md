@@ -22,6 +22,8 @@ entity rollup
 Every step writes to an append-only SQLite audit log. Snapshots are
 versioned per run_id and sealed on approval.
 
+![Workflow Diagram](./worflow_accounting_agents.svg)
+
 ## Stack
 
 | Component    | Tool                                        |
